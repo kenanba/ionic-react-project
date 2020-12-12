@@ -1,5 +1,5 @@
 {
-  "name": "ionic-react",
+  "name": "cordova",
   "integrations": {
     "capacitor": {}
   },

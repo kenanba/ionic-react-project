@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">bmiKenansApp</string>
+    <string name="title_activity_main">bmiKenansApp</string>
+    <string name="package_name">www.kenansApp.de</string>
+    <string name="custom_url_scheme">www.kenansApp.de</string>
+</resources>
